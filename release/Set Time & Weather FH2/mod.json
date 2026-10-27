@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "id": "timelock",
+  "name": "Set Time & Weather FH2",
+  "version": "1.2.0",
+  "description": "Sets the free-roam time of day and weather (both dynamic by default, choices remembered). Set it in Settings > Video (Time of Day Lock, Locked Hour, Weather) or in TimeLock.ini.",
+  "media": null,
+  "dependencies": []
+}
